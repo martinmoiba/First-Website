@@ -1,0 +1,38 @@
+body{
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+  font-size: 30px;
+  font-weight: normal;
+  font-family: BaskervilleFull;
+  font-style: italic;
+}
+
+h3{
+  color: #66BFBF;
+  font-family: BaskervilleFull;
+  font-style: italic;
+}
+
+hr{
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+.fit-picture:hover {
+  background-color: gold;
+
+}
+
+.hobbies{
+  color: #66BFBF;
+  margin: 10px;
+}
+
+.contact-me{
+  color: #66BFBF;
+}
